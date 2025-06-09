@@ -1,0 +1,8 @@
+@BookStoreApi_HostAddress = https://localhost:7165
+
+GET {{BookStoreApi_HostAddress}}/api/Books
+
+###
+
+
+
